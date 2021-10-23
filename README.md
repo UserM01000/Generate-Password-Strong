@@ -10,7 +10,7 @@ Contraseña súper seguras :D
 
 * `pkg install clang -y  -----> (en caso que no se pueda compilar el programa)` 
 
-* `git clone https://github.com/UserM01000/FakeUser`
+* `git clone https://github.com/UserM01000/Generate-Password-Strong`
 
 * `cd Generate-Password-Strong`
 
