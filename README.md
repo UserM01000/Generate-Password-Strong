@@ -8,7 +8,7 @@ POR EL MOMENTO NO PONDRE PARA WINDOWS
 ---
 # Instalacion en Linux (termux)
 
-* `apt upgrade && apt update -y`
+* `apt update && apt upgrade -y`
 
 * `git clone https://github.com/UserM01000/Generate-Password-Strong`
 
