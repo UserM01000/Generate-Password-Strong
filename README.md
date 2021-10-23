@@ -16,5 +16,11 @@ Contraseña súper seguras :D
 
 * `ls`
 
+* `chmod +x Pass`
+
+* `./Pass`
+
+* `Listo, disfruta :D`
+
 <!-- XD -->
 [tested]:https://img.shields.io/badge/Tested%3A-%20Termux-blue
