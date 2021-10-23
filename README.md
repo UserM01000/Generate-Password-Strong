@@ -3,12 +3,12 @@
 <br>
 Pues ven y prueba este increíble programa y crea 
 Contraseña súper seguras :D
-
+---
+POR EL MOMENTO NO PONDRE PARA WINDOWS 
+---
 # Instalacion en Linux (termux)
 
 * `apt upgrade && apt update -y`
-
-* `pkg install clang -y  -----> (en caso que no se pueda compilar el programa)` 
 
 * `git clone https://github.com/UserM01000/Generate-Password-Strong`
 
