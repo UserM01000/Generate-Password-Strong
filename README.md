@@ -3,6 +3,8 @@
 <br>
 Pues ven y prueba este increíble programa y crea 
 Contraseña súper seguras :D
+<br>
+# Código Open Source
 ---
 POR EL MOMENTO NO PONDRE PARA WINDOWS 
 ---
