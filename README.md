@@ -6,7 +6,7 @@ Contraseña súper seguras :D
 <br>
 # Código Open Source
 ---
-POR EL MOMENTO NO PONDRE PARA WINDOWS 
+UPDATE ---> AHORA PARA WINDOWS
 ---
 # Instalacion en Linux (termux)
 
@@ -25,4 +25,4 @@ POR EL MOMENTO NO PONDRE PARA WINDOWS
 * `Listo, disfruta :D`
 
 <!-- XD -->
-[tested]:https://img.shields.io/badge/Tested%3A-%20Termux-blue
+[tested]:https://img.shields.io/badge/Tested%3A-Windows%20%26%20Termux-blue
