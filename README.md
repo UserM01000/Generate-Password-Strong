@@ -4,7 +4,7 @@
 Pues ven y prueba este increíble programa y crea 
 Contraseña súper seguras :D
 <br>
-# Código Open Source
+# Open Source
 ---
 UPDATE ---> AHORA PARA WINDOWS
 ---
